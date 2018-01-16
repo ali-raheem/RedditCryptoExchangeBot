@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+# Copyright 2018 Ali Raheem
 from db import db as database
 from getData import poloApi
 from trader import trader

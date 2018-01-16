@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright 2018 Ali Raheem
 
 from json import loads
 from urllib.request import urlopen

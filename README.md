@@ -1,4 +1,4 @@
-# Reddit Crypto Exchange
+# Reddit Crypto Exchange GPLv3
 
 Fantasy Crypto Trading. Put your money where your mouth is!
 
@@ -33,8 +33,9 @@ $ python3 main.py
 ### Dependencies
 
 * Python3
-* pymongo
-* MongoDB server
+* PRAW - pip3 install praw
+* pymongo - pip3 install pymongo
+* MongoDB server - apt install mongodb-server
 
 
 #### Todo
